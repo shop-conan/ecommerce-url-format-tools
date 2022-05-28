@@ -647,6 +647,22 @@ Note that there are still some differences between the `LRUTrie` and the `Normal
 
 ---
 
+### Shopify
+
+is shopify url
+is shopify product url
+is shopify collection url
+is shopify page url
+
+
+### wordpress/woo-commerce
+
+
+### 
+
+
+
+
 ### Facebook
 
 #### has_facebook_comments
